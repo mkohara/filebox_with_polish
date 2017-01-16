@@ -1,5 +1,60 @@
 /* Additional styles */
+/*Maggie Added styles*/
 
+
+
+body {
+  background-color: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fbfbfb+0,fbfbfb+100 */
+background: #fbfbfb; /* Old browsers */
+background: -moz-linear-gradient(top,  #fbfbfb 0%, #fbfbfb 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #fbfbfb 0%,#fbfbfb 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #fbfbfb 0%,#fbfbfb 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fbfbfb', endColorstr='#fbfbfb',GradientType=0 ); /* IE6-9 */
+
+}
+
+.navbar-default{
+  background-color: white
+}
+.navbar a{
+  color:blue
+}
+f{
+  color:blue
+}
+.fa-dropbox {
+  color:blue
+}
+}
+.form-group {
+  background-color: white
+}
+.d{
+  background-color: white
+}
+.col-md-offset-4 {
+  background-color: white
+}
+
+p {
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+h2 {
+  font-weight: lighter;
+}
+h1 {
+  font-weight: lighter;
+}
+li {
+  font-weight: lighter;
+}
+h4 {
+  font-weight: lighter;
+}
+
+/*where Maggie's end */
 body {
   font-family: "Open Sans";
 }
